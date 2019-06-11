@@ -63,7 +63,7 @@ public class HelpWindow {
 	    mainHelpWindow.setEditable(false);
 	    //Read in the file
 	    try{
-		   InputStream in = new FileInputStream("files/help.rtf");
+		   InputStream in = new FileInputStream("src/main/resources/help.rtf");
 		   mainHelpWindow.setContentType("text/rtf");
 		   mainHelpWindow.read(in, null);
 		}
