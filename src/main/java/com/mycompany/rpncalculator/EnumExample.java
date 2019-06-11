@@ -1,6 +1,12 @@
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2009 Colin But. All rights reserved.
+ * |-------------------------------------------------
+ */
 package com.mycompany.rpncalculator;
 
 import java.util.*;
+
 /******************************************************************************
  * This class is an example of java programming technique which involves the
  * use of enums (Enumerations). 

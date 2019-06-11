@@ -1,3 +1,8 @@
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2009 Colin But. All rights reserved.
+ * |-------------------------------------------------
+ */
 package com.mycompany.rpncalculator;
 
 import java.awt.event.*;
@@ -16,8 +21,6 @@ import java.math.*;
  * @author Colin
  *
  */
-
-
 public class EventListener implements ActionListener{
     //Private fields  
 	private GUI g;

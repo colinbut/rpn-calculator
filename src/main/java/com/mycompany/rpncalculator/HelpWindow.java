@@ -1,7 +1,10 @@
-package com.mycompany.rpncalculator;
-/**
- * 
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2009 Colin But. All rights reserved.
+ * |-------------------------------------------------
  */
+package com.mycompany.rpncalculator;
+
 import java.awt.*;
 import java.io.*;
 import javax.swing.*;

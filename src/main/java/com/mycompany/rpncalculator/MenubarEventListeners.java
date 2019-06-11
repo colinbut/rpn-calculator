@@ -1,9 +1,9 @@
-package com.mycompany.rpncalculator;
-/**
- * 
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2009 Colin But. All rights reserved.
+ * |-------------------------------------------------
  */
-import com.mycompany.rpncalculator.Calculator_Engine;
-import com.mycompany.rpncalculator.ValidOperators;
+package com.mycompany.rpncalculator;
 
 import javax.swing.*;
 import java.awt.event.*;
